@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+  }
+  
+  
+  .signupcontainer {
+    margin: 10px;
+    max-width: 50%;
+    height: 400px;
+    margin-left: 35%;
+    margin-right : 35%;
+    background-color: white;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
+   
+  }
+  
+  .button{
+    background-color: rgb(37, 134, 130);
+    border: none;
+    color: white;
+    padding: 8px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+  }
+  
+  #login.container #login-row #login-colomn #login-box{
+    padding: 20px;
+  }
+  
+  #login.container #login-row #login-colomn #login-box{
+    margin-top : -85px;
+  }
+  
